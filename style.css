@@ -100,7 +100,7 @@ h1{
 }
 @media screen and (max-width: 1030px) {
     .container{
-        margin-top: 20%;
+        margin-top: 10%;
         width: 100%;
         margin-left: 0;
     }
